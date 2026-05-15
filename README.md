@@ -52,7 +52,6 @@ The platform includes advanced review analytics, admin moderation controls, dyna
 ## Backend & Database
 - Supabase
 - PostgreSQL
-- Node.js
 
 ## Styling
 - Custom CSS
